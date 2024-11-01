@@ -17,8 +17,8 @@ A collection of filters for [uBlock Origin](https://ublockorigin.com/).
 
 ### Remove Google Sign in Popup
 
-URL: ``
+URL: `https://raw.githubusercontent.com/AstragoDETechnologies/astrafilters/refs/heads/main/filters/google/remove-sign-in-with-google-popup.txt`
 
 ### Remove YouTube loading delay
 
-URL: ``
+URL: `https://raw.githubusercontent.com/AstragoDETechnologies/astrafilters/refs/heads/main/filters/youtube/remove-loading-delay.txt`
