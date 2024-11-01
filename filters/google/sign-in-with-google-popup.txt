@@ -1,0 +1,9 @@
+! Title: Astrafilters - Sign in with Google Popup
+! Last modified: 2024-11-01
+! Expires: 3 days
+! Description: Removes the sign in with Google Popup that appears on some websites
+! Homepage: https://github.com/AstragoDETechnologies/astrafilters
+
+
+! Source: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_google_login_dialogs_on_various_pages
+||accounts.google.com/gsi/*$xhr,script,3p
