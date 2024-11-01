@@ -1,4 +1,4 @@
-! Title: Astrafilters - YouTube Delay Filter
+! Title: Astrafilters - Remove YouTube loading delay
 ! Last modified: 2024-11-01
 ! Expires: 3 days
 ! Description: Removes the loading delay for non-chromium Browsers for YouTube

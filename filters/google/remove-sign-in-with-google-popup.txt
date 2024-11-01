@@ -1,4 +1,4 @@
-! Title: Astrafilters - Sign in with Google Popup
+! Title: Astrafilters - Remove sign in with Google popup
 ! Last modified: 2024-11-01
 ! Expires: 3 days
 ! Description: Removes the sign in with Google Popup that appears on some websites
